@@ -1,0 +1,56 @@
+/* Skills.css */
+.skills-section {
+  text-align: center;
+  padding: 20px;
+}
+
+.skills-list {
+  list-style: none;
+  padding: 0;
+}
+
+.skill {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 1.2rem;
+}
+
+.skill-icon {
+  margin-right: 10px;
+  font-size: 1.5rem;
+}
+
+/* Icon specific colors */
+.html-icon {
+  color: #e34c26;
+}
+
+.css-icon {
+  color: #264de4;
+}
+
+.javascript-icon {
+  color: #f0db4f;
+}
+
+.react-icon {
+  color: #61dbfb;
+}
+
+.angular-icon {
+  color: #dd1b16;
+}
+
+.dbms-icon {
+  color: #4caf50;
+}
+
+.c-icon {
+  color: #5c6bc0;
+}
